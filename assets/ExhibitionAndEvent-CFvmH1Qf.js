@@ -1,1 +1,0 @@
-import{_ as s,e as t,f as n,q as o}from"./index-De6-8xSk.js";const a={},r={class:"about"};function c(i,e){return o(),t("div",r,e[0]||(e[0]=[n("h1",null,"This is an e page",-1)]))}const d=s(a,[["render",c]]);export{d as default};
