@@ -1,0 +1,1 @@
+import{H as s,i as r}from"./HeroImage-jN2I4H8f.js";import{e as o,i as t,j as n,f as a,F as l,q as m}from"./index-Z3P2GeX0.js";const f={__name:"CeramicWorks",setup(c){return(i,e)=>(m(),o(l,null,[t(s,{src:n(r)},null,8,["src"]),e[0]||(e[0]=a("div",{class:"about"},[a("h1",null,"This is an about page")],-1))],64))}};export{f as default};

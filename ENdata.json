@@ -129,37 +129,37 @@
         {
             "album":[
                 {
-                    "img":"../src/assets/images/c.jpg",
+                    "img":"c.jpg",
                     "text":"第一張",
                     "id":1
                 },
                 {
-                    "img":"../src/assets/images/b.jpg",
+                    "img":"b.jpg",
                     "text":"第一張",
                     "id":2
                 },
                 {
-                    "img":"../src/assets/images/a.jpg",
+                    "img":"a.jpg",
                     "text":"第一張",
                     "id":3
                 },
                 {
-                    "img":"../src/assets/images/d.jpg",
+                    "img":"d.jpg",
                     "text":"第一張",
                     "id":4
                 },
                 {
-                    "img":"../src/assets/images/c.jpg",
+                    "img":"c.jpg",
                     "text":"第一張",
                     "id":5
                 },
                 {
-                    "img":"../src/assets/images/d.jpg",
+                    "img":"d.jpg",
                     "text":"第一張",
                     "id":6
                 },
                 {
-                    "img":"../src/assets/images/c.jpg",
+                    "img":"c.jpg",
                     "text":"第一張",
                     "id":7
                 }
